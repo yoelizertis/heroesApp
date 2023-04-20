@@ -1,3 +1,5 @@
-export const enviroments = {
-    baseUrl:'httpS://yoel-fernandez.com/api'
+
+
+export const environments = {
+  baseUrl: 'https://fernando-herrera.com/api'
 }
